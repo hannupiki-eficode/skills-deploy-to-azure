@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: hpiefitest-azure-ttt
-  AZURE_WEBAPP_NAME: hpiefitest-ttt-app
+  DOCKER_IMAGE_NAME: hannupiki-eficode-azure-ttt
+  AZURE_WEBAPP_NAME: hannupiki-eficode-ttt-app
   ###############################################
 
 jobs:
